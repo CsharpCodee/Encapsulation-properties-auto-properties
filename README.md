@@ -1,0 +1,1 @@
+# Encapsulation-properties-auto-properties
